@@ -492,6 +492,8 @@ please preview your site before committing, and make sure to run
   workshop,
   you will need access to software as described below.
   In addition, you will need an up-to-date web browser.
+  <strong>Stanford workshop note: We will use Google Colab to avoid installation issues.
+  Use these instructions for your own reference if you’d like to use Python/Bash locally.</strong>
 </p>
 <p>
   We maintain a list of common issues that occur during installation as a reference for instructors
